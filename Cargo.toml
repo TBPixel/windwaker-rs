@@ -2,6 +2,11 @@
 name = "windwaker"
 version = "0.1.0"
 edition = "2021"
+authors = ["Madison Barry <madison.barry@hey.com>"]
+readme = "README.md"
+license = "MIT"
+description = "A rust library that adds types to make working with Wind Waker in Dolphin a breeze."
+repository = "https://github.com/TBPixel/windwaker-rs"
 
 [dependencies]
 dolphin-memory = "0.2.2"
